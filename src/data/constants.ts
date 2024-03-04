@@ -4,8 +4,8 @@ export const PRODUCTS_LIST: Product[] = [
       name: 'APPLE iPhone 14 (Blue, 128 GB)',
       imageUrl:
         'https://rukminim1.flixcart.com/image/300/400/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg',
-      originalPrice: 79990,
-      discountPrice: 65999,
+      originalPrice: 87990,
+      discountPrice: 49999,
       offerPercentage: 17,
       rating: 4.7,
       ratingCount: 8794,
